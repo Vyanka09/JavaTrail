@@ -9,5 +9,12 @@ public class Main {
                 System.out.println(str.substring(i,j));
             }
         }
+
+        //Add method to find the addition of 2 numbers
+
+        int a=10;
+        int b=12;
+        int sum=a+b;
+        System.out.println(sum);
     }
 }
